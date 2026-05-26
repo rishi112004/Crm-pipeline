@@ -1,4 +1,7 @@
 # Crm-pipeline
+## 📊 Dashboard Preview
+
+![CRM Dashboard](Dashboard.jpeg)
 End-to-end CRM lead management system for HelpAge Mumbai — raw data cleaned &amp; analysed in Python (pandas + Jupyter), results delivered as Excel dashboards for the sales team. Covers follow-up tracking, priority scoring, agent performance, and daily call list generation.
 From raw CRM export → Python analysis → Excel delivery — a complete lead management pipeline for a 4,500-lead sales campaign.
 # 🏥 HelpAge Mumbai — CRM Lead Management Pipeline
